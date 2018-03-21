@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="colorButton">#2196F3</color>
+    <color name="colorButtonClicked">#0D47A1</color>
+    <color name="colorButtonRed">#C62828</color>
+    <color name="colorButtonGreen">#2E7D32</color>
+    <color name="colorButtonBlue">#1565C0</color>
+    <color name="colorButtonText">#FFFFFF</color>
+    <color name="colorButtonClickedText">#FFFFFF</color>
+    <color name="colorButtonEasy">#FFEB3B</color>
+    <color name="colorButtonHard">#FF9800</color>
+
+    <color name="colorBasicBackgroundTest1">#FF2600</color>
+    <color name="colorBasicBackgroundTest2">#0096FF</color>
+    <color name="colorBasicBackgroundTest3">#8EFA00</color>
+    <color name="colorBasicBackgroundTest4">#8EFA00</color>
+    <color name="colorBasicBackgroundTest5">#000000</color>
+    <color name="colorBasicBackgroundTest6">#0096FF</color>
+    <color name="colorBasicBackgroundTest7">#FF2600</color>
+    <color name="colorBasicBackgroundTest8">#0096FF</color>
+    <color name="colorBasicForegroundTest1">#00F900</color>
+    <color name="colorBasicForegroundTest2">#8EFA00</color>
+    <color name="colorBasicForegroundTest3">#000000</color>
+    <color name="colorBasicForegroundTest4">#0096FF</color>
+    <color name="colorBasicForegroundTest5">#F32300</color>
+    <color name="colorBasicForegroundTest6">#8EFA00</color>
+    <color name="colorBasicForegroundTest7">#000000</color>
+    <color name="colorBasicForegroundTest8">#FF2600</color>
+
+    <color name="colorExtendedBackgroundTest1">#FF40FF</color>
+    <color name="colorExtendedBackgroundTest2">#FFFB00</color>
+    <color name="colorExtendedBackgroundTest3">#FF9300</color>
+    <color name="colorExtendedBackgroundTest4">#8EFA00</color>
+    <color name="colorExtendedBackgroundTest5">#FF2600</color>
+    <color name="colorExtendedBackgroundTest6">#000000</color>
+    <color name="colorExtendedBackgroundTest7">#0096FF</color>
+    <color name="colorExtendedBackgroundTest8">#FF40FF</color>
+    <color name="colorExtendedForegroundTest1">#0433FF</color>
+    <color name="colorExtendedForegroundTest2">#8EFA00</color>
+    <color name="colorExtendedForegroundTest3">#FF40FF</color>
+    <color name="colorExtendedForegroundTest4">#FF2600</color>
+    <color name="colorExtendedForegroundTest5">#8EFA00</color>
+    <color name="colorExtendedForegroundTest6">#FF9300</color>
+    <color name="colorExtendedForegroundTest7">#FFFB00</color>
+    <color name="colorExtendedForegroundTest8">#000000</color>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test Wzroku</string>
+    <string name="test1">Test Ishihary</string>
+    <string name="test2">Test Uzupełniający</string>
+    <string name="test1_info">
+        Na ekranie zostanie wyświetlone 30 obrazów.
+        Odczytaj liczbę z każdego z nich.
+    </string>
+    <string name="test2_info">
+        Na ekranie zostanie wyświetlone 8 nazw kolorów.
+        Jako odpowiedź wybierz nazwę koloru, która została wyświetlona.
+        Na każdą odpowiedź masz 3 sekundy.
+    </string>
+    <string name="instruction">Instrukcja</string>
+    <string name="color_settings">Wybierz kolor</string>
+    <string name="red">Czerwony</string>
+    <string name="green">Zielony</string>
+    <string name="blue">Niebieski</string>
+    <string name="difficulty_settings">Wybierz poziom trudności</string>
+    <string name="easy">Łatwy</string>
+    <string name="hard">Trudny</string>
+    <string name="start_test">Rozpocznij test</string>
+    <string name="put_answer">Tutaj wpisz odpowiedź</string>
+    <string name="test_result">Wynik testu:</string>
+    <string name="red_points">Czerwony:</string>
+    <string name="green_points">Zielony:</string>
+    <string name="blue_points">Niebieski:</string>
+    <string name="difficulty_settings2">Wybierz rodzaj testu</string>
+    <string name="basic">Podstawowy</string>
+    <string name="extended">Rozszerzony</string>
+    <string name="correct_answer">Odpowiedź poprawna</string>
+    <string name="incorrect_answer">Odpowiedź niepoprawna</string>
+
+    <!-- Content Description -->
+    <string name="eye"> </string>
+    <string name="image"> </string>
+
+    <!-- Test Colors -->
+    <string name="testBasic1">NIEBIESKI</string>
+    <string name="testBasic2">ZIELONY</string>
+    <string name="testBasic3">CZERWONY</string>
+    <string name="testBasic4">CZERWONY</string>
+    <string name="testBasic5">NIEBIESKI</string>
+    <string name="testBasic6">CZERWONY</string>
+    <string name="testBasic7">NIEBIESKI</string>
+    <string name="testBasic8">ZIELONY</string>
+    <string name="testExtended1">POMARAŃCZOWY</string>
+    <string name="testExtended2">CZARNY</string>
+    <string name="testExtended3">ŻÓŁTY</string>
+    <string name="testExtended4">RÓŻOWY</string>
+    <string name="testExtended5">NIEBIESKI</string>
+    <string name="testExtended6">NIEBIESKI</string>
+    <string name="testExtended7">ZIELONY</string>
+    <string name="testExtended8">ZIELONY</string>
+
+    <!-- Test Answers -->
+    <string name="testBasic1Answer1">CZERWONY</string>
+    <string name="testBasic1Answer2">NIEBIESKI</string>
+    <string name="testBasic2Answer1">CZERWONY</string>
+    <string name="testBasic2Answer2">ZIELONY</string>
+    <string name="testBasic3Answer1">CZERWONY</string>
+    <string name="testBasic3Answer2">CZARNY</string>
+    <string name="testBasic4Answer1">NIEBIESKI</string>
+    <string name="testBasic4Answer2">CZERWONY</string>
+    <string name="testBasic5Answer1">CZARNY</string>
+    <string name="testBasic5Answer2">NIEBIESKI</string>
+    <string name="testBasic6Answer1">CZERWONY</string>
+    <string name="testBasic6Answer2">NIEBIESKI</string>
+    <string name="testBasic7Answer1">CZARNY</string>
+    <string name="testBasic7Answer2">NIEBIESKI</string>
+    <string name="testBasic8Answer1">ZIELONY</string>
+    <string name="testBasic8Answer2">NIEBIESKI</string>
+
+    <string name="testExtended1Answer1">RÓŻOWY</string>
+    <string name="testExtended1Answer2">POMARAŃCZOWY</string>
+    <string name="testExtended2Answer1">ŻÓŁTY</string>
+    <string name="testExtended2Answer2">CZARNY</string>
+    <string name="testExtended3Answer1">RÓŻOWY</string>
+    <string name="testExtended3Answer2">ŻÓŁTY</string>
+    <string name="testExtended4Answer1">ZIELONY</string>
+    <string name="testExtended4Answer2">RÓŻOWY</string>
+    <string name="testExtended5Answer1">NIEBIESKI</string>
+    <string name="testExtended5Answer2">CZERWONY</string>
+    <string name="testExtended6Answer1">POMARAŃCZOWY</string>
+    <string name="testExtended6Answer2">NIEBIESKI</string>
+    <string name="testExtended7Answer1">ŻÓŁTY</string>
+    <string name="testExtended7Answer2">ZIELONY</string>
+    <string name="testExtended8Answer1">CZARNY</string>
+    <string name="testExtended8Answer2">ZIELONY</string>
+
+    <!-- Summary -->
+    <string name="summary1">Nie masz problemu z rozpoznawaniem barw, nie musisz się martwić o swój wzrok.</string>
+    <string name="summary2">Wykonaj test ponownie w celu weryfikacji czy masz problem z rozpoznawaniem barw.</string>
+    <string name="summary3">Masz problem z rozpoznawaniem barw, zalecana jest wizyta u lekarza.</string>
+
+</resources>

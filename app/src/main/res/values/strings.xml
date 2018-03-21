@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Eye Test</string>
+    <string name="test1">Ishihara\'s Test</string>
+    <string name="test2">Supplementary Test</string>
+    <string name="test1_info">
+        30 images will be displayed on the screen.
+        Read the number from each of them.
+    </string>
+    <string name="test2_info">
+        8 color names will be displayed on the screen.
+        As the answer, select the name of the color that was displayed.
+        You have 3 seconds for each answer.
+    </string>
+    <string name="instruction">Instruction</string>
+    <string name="color_settings">Choose color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="difficulty_settings">Choose difficulty level</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="start_test">Start the test</string>
+    <string name="put_answer">Put answer here</string>
+    <string name="test_result">Test result:</string>
+    <string name="red_points">Red:</string>
+    <string name="green_points">Green:</string>
+    <string name="blue_points">Blue:</string>
+    <string name="difficulty_settings2">Choose test type</string>
+    <string name="basic">Basic</string>
+    <string name="extended">Extended</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="incorrect_answer">Incorrect answer</string>
+
+    <!-- Content Description -->
+    <string name="eye"> </string>
+    <string name="image"> </string>
+
+    <!-- Test Colors -->
+    <string name="testBasic1">BLUE</string>
+    <string name="testBasic2">GREEN</string>
+    <string name="testBasic3">RED</string>
+    <string name="testBasic4">RED</string>
+    <string name="testBasic5">BLUE</string>
+    <string name="testBasic6">RED</string>
+    <string name="testBasic7">BLUE</string>
+    <string name="testBasic8">GREEN</string>
+
+    <string name="testExtended1">ORANGE</string>
+    <string name="testExtended2">BLACK</string>
+    <string name="testExtended3">YELLOW</string>
+    <string name="testExtended4">PINK</string>
+    <string name="testExtended5">BLUE</string>
+    <string name="testExtended6">BLUE</string>
+    <string name="testExtended7">GREEN</string>
+    <string name="testExtended8">GREEN</string>
+
+    <!-- Test Answers -->
+    <string name="testBasic1Answer1">RED</string>
+    <string name="testBasic1Answer2">BLUE</string>
+    <string name="testBasic2Answer1">RED</string>
+    <string name="testBasic2Answer2">GREEN</string>
+    <string name="testBasic3Answer1">RED</string>
+    <string name="testBasic3Answer2">BLACK</string>
+    <string name="testBasic4Answer1">BLUE</string>
+    <string name="testBasic4Answer2">RED</string>
+    <string name="testBasic5Answer1">BLACK</string>
+    <string name="testBasic5Answer2">BLUE</string>
+    <string name="testBasic6Answer1">RED</string>
+    <string name="testBasic6Answer2">BLUE</string>
+    <string name="testBasic7Answer1">BLACK</string>
+    <string name="testBasic7Answer2">BLUE</string>
+    <string name="testBasic8Answer1">GREEN</string>
+    <string name="testBasic8Answer2">BLUE</string>
+
+    <string name="testExtended1Answer1">PINK</string>
+    <string name="testExtended1Answer2">ORANGE</string>
+    <string name="testExtended2Answer1">YELLOW</string>
+    <string name="testExtended2Answer2">BLACK</string>
+    <string name="testExtended3Answer1">PINK</string>
+    <string name="testExtended3Answer2">YELLOW</string>
+    <string name="testExtended4Answer1">GREEN</string>
+    <string name="testExtended4Answer2">PINK</string>
+    <string name="testExtended5Answer1">BLUE</string>
+    <string name="testExtended5Answer2">RED</string>
+    <string name="testExtended6Answer1">ORANGE</string>
+    <string name="testExtended6Answer2">BLUE</string>
+    <string name="testExtended7Answer1">YELLOW</string>
+    <string name="testExtended7Answer2">GREEN</string>
+    <string name="testExtended8Answer1">BLACK</string>
+    <string name="testExtended8Answer2">GREEN</string>
+
+    <!-- Summary -->
+    <string name="summary1">You don\'t have a problem with recognizing colors, you don\'t have to worry about your eyesight.</string>
+    <string name="summary2">Do the test again to verify if you have a problem with color recognition.</string>
+    <string name="summary3">You have a problem with color recognition, a visit to the doctor is recommended.</string>
+
+</resources>
